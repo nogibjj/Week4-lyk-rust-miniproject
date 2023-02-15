@@ -1,5 +1,9 @@
 # rust-new-project-template
-A good starting point for a new Rust project
+Here is a mini command line tool project in Rust to count the number of distinct anagrams in one string. I
+
+## Usage
+-- check --input "String"
+output will be true or false
 
 ## References
 
